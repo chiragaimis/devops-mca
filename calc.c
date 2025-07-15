@@ -2,11 +2,10 @@
 
 void main(){
 
-    int a,b;
+    int a=10,b=2;
     printf("%d",a+b);
     printf("%d",a-b);
-    printf("%d",a*b); 
+    printf("%d",a*b);
     printf("%d",a/b);
-
 
 }
